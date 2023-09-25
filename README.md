@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnastasiiaKulcsar
 - 👀 I’m interested in Java, Linux, Kotlin, Web Development
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Crating Apps for Android
+- 💞️ I’m looking to collaborate on creating apps for Android
 - 📫 How to reach me Telegram @ansts_bo
 
 <!---
